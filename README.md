@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Welcome to My GitHub World
+Hi, I'm stargo, a doctoral candidate at HRBUST. I have a profound passion for the interdisciplinary realm that combines computational materials science and battery technology.
+If you want to contact me, please send me an email: chenstern@foxmail.com
+📖 About Me
+Skills:
+Proficient in Python, I am capable of leveraging it to develop highly efficient and stable applications. 
+I am well - versed in Pytorch and other advanced machine - learning tools, enabling me to handle complex data analysis and model training tasks effectively. 
+Moreover, with a solid foundation in computational science, I can design and optimize materials precisely to fulfill diverse laboratory requirements.
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/stargolike?cardType=level-alternate&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
