@@ -28,6 +28,6 @@ Proficient in Python, I am capable of leveraging it to develop highly efficient 
 
 I am well - versed in Pytorch and other advanced machine - learning tools, enabling me to handle complex data analysis and model training tasks effectively. 
 
-Moreover, with a solid foundation in computational science, I can design and optimize materials precisely to fulfill diverse laboratory requirements.
+Moreover, with a solid foundation in computational science and proficient skills in using VASP and GROMACS, I can design and optimize materials precisely to fulfill diverse laboratory requirements.
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/stargolike?cardType=level-alternate&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card) 
